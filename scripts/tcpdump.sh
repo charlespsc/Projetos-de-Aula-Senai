@@ -1,3 +1,4 @@
+#!/bin/sh
 limite=10000000
 arquivos=60
 contador=0
